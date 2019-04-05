@@ -1,4 +1,4 @@
-FROM php:7.0-cli
+FROM php:7.1-cli
 MAINTAINER Chris Allan <chris@allan.codes>
 ENV DEBIAN_FRONTEND noninteractive
 
